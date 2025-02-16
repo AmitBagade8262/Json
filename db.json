@@ -1,8 +1,17 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "productId": 2890,
+      "productSku": "aqaq",
+      "productName": "T-shirt",
+      "productPrice": 33,
+      "productShortName": "top",
+      "productDescription": "Updated  function called by suresh",
+      "createdDate": "2024-12-13T17:31:03.693",
+      "deliveryTimeSpan": "1-2 days",
+      "categoryId": 89,
+      "productImageUrl": "https://www.befunky.com/images/prismic/0d88c466-8c06-4ddc-8534-1047b109136d_features-background-remover4.png?auto=avif,webp&format=jpg&width=581",
+      "categoryName": "T-shirts"
     }
   ],
   "profile": {
